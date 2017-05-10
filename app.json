@@ -1,0 +1,6 @@
+{
+  "name": "MTA Website ROI Calculator",
+  "description": "MTA SPA Website ROI Calculator",
+  "repository": "https://github.com/RyanBaron/website-roi-calculator.git",
+  "keywords": ["angular2", "express", "node"]
+}
